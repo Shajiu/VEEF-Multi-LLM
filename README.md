@@ -7,7 +7,7 @@
     [<a href="#experiments">🔬 experiments</a>]
     [<a href="#applications">🤖 applications</a>]
     [<a href="https://huggingface.co/spaces/SecureLLMSys/AttnTrace">⚡demo</a>]
-    [<a href="https://arxiv.org/abs/2508.03793">📚 paper</a>]
+    [<a href="https://aclanthology.org/2025.coling-main.533">📚 paper</a>]
     <br>
 
 
