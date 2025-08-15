@@ -1,7 +1,7 @@
 # VEEF-Multi-LLM: Effective Vocabulary Expansion and Parameter Efficient Finetuning Towards Multilingual Large Language Models
 
 <p align='center'>
-    <img alt="AttnTrace" src='assets/Language.pdf' width='65%'/>
+    <img alt="AttnTrace" src='assets/Language_1.png' width='65%'/>
     <br>
         [<a href="/quick_start.ipynb">📝 quick start</a>]
     [<a href="#experiments">🔬 experiments</a>]
