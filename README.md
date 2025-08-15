@@ -3,10 +3,8 @@
 <p align='center'>
     <img alt="AttnTrace" src='assets/Language_1.png' width='65%'/>
     <br>
-        [<a href="/quick_start.ipynb">📝 quick start</a>]
-    [<a href="#experiments">🔬 experiments</a>]
-    [<a href="#applications">🤖 applications</a>]
-    [<a href="https://huggingface.co/spaces/SecureLLMSys/AttnTrace">⚡demo</a>]
+    [<a href="https://huggingface.co/shajiu/VEEF-Multi-LLM">🤖 corpus</a>]
+    [<a href="https://huggingface.co/shajiu/VEEF-Multi-LLM">⚡model</a>]
     [<a href="https://aclanthology.org/2025.coling-main.533">📚 paper</a>]
     <br>
 
